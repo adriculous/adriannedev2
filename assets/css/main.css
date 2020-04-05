@@ -1629,6 +1629,13 @@ input, select, textarea {
 
 		}
 
+/* Work */
+
+	.thumb {
+		display: block;
+		width: 50%;
+	}
+
 /* Portfolio */
 
 	#portfolio nav ul li {
