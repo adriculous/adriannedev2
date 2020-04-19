@@ -1632,7 +1632,7 @@ input, select, textarea {
 /* Work */
 
 	.thumb {
-		display: block;
+		display: inline-block;
 		width: 50%;
 	}
 
