@@ -4,6 +4,7 @@ This is the second edition of my not-quite-launched portfolio site. There's stil
 **URL** [ADRIANNE.dev](https://adrianne.dev)
 
 ### TO-DO LIST
-- Add portfolio thumbnails
-- Add (or link) a resume/CV
-- Polish contents, call to action, etc.
+- [x] Add portfolio thumbnails
+- [x] Create/upload favicon
+- [ ] Add (or link) a resume/CV
+- [ ] Polish contents, call to action, etc.
